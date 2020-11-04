@@ -1,4 +1,4 @@
-blocked=["://www.youtube.com/watch?v=dQw4w9WgXcQ", "://www.youtube.com/watch?v=6_b7RDuLwcI", "://www.youtube.com/watch?v=TzXXHVhGXTQ"] // Define blocked websites
+blocked=["://www.youtube.com/watch?v=dQw4w9WgXcQ", "://www.youtube.com/watch?v=6_b7RDuLwcI", "://www.youtube.com/watch?v=TzXXHVhGXTQ", "://www.youtube.com/watch?v=oHg5SJYRHA0"] // Define blocked websites
 
 
 
