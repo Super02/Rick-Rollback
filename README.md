@@ -1,4 +1,10 @@
+# Discontinued
+
+This project is discontinued as it will be merged with the extension [AntiRickRoll](https://github.com/dnorhoj/AntiRickRoll).
+The new project has support for Chrome and Firefox as well as a RickRoll reporting system.
+
 # Rick-Rollback
+
 Rick Rollback is an extension that is made for chrome and blocks all attempted rick rolls. You are able to see an example video here: https://youtu.be/89UxuY0elIo
 
 ## Installing
